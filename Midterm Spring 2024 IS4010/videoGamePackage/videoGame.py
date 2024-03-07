@@ -1,3 +1,16 @@
+# Name:Elizabeth Stapleton
+# email: stapleet@mail.uc.edu
+# Assignment Number: stapleet_MidtermExam
+# Due Date: 03/07/2023
+# Course/Section: IS4010
+# Semester/Year: Spring 2024
+# Brief Description of the assignment: This module is the videoGame.py that contains the play function.
+# Citations:
+# Anything else that's relevant:
+
+
+
+
 # videoGame.py
 
 if __name__ != "__main__":
